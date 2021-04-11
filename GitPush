@@ -1,5 +1,7 @@
 class GitPush{
 public static void main((String[] args){
   System.out.println("Hai welcome to Git");
+  System.out.println("Jenkins push build project");
+  System.out.println("Welcome to Jenkins");
 }
 }
